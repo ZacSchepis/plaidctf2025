@@ -1,0 +1,1886 @@
+{
+  "accelerated": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "adalind": {
+    "avg_strikes": 1.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "adem": {
+    "avg_strikes": 1.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "adventures": {
+    "avg_strikes": 1.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "affliction": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "after": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "aircraft": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "alexis": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "alpert": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "apartment": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "apostrophe": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "appeal": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "arched": {
+    "avg_strikes": 0.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "arrival": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "assassins": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "authentication": {
+    "avg_strikes": 0.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "ayano": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "bakka": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "barcelona": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "barron": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "beate": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "beecham": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "beefs": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "believeth": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "belive": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "bffs": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "bismillah": {
+    "avg_strikes": 1.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "blurt": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "boasted": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "bodily": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "bojangles": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "bombay": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "bordering": {
+    "avg_strikes": 1.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "borrower": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "brad": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "bragg": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "braverman": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "breakfast": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "brewed": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "briefcases": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "brocade": {
+    "avg_strikes": 1.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "brokenhearted": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "brownie": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "bryony": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "buccaneer": {
+    "avg_strikes": 1.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "buoys": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "cabral": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "capuchin": {
+    "avg_strikes": 0.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "carlito": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "carly": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "cashing": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "cater": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "chair": {
+    "avg_strikes": 1.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "chantilly": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "charity": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "chase": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "chilton": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "chipotle": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "circulation": {
+    "avg_strikes": 0.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "cirque": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "clasped": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "classical": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "classifieds": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "clots": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "codis": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "collusion": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "commences": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "cookbook": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "coral": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "cossack": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "coughlin": {
+    "avg_strikes": 1.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "coursework": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "crabby": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "crowley": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "cuter": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "damaging": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "dateline": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "daze": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "deej": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "deepwater": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "defeatist": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "defuse": {
+    "avg_strikes": 1.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "deliberation": {
+    "avg_strikes": 0.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "depositions": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "despises": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "deviate": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "dinar": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "disagreements": {
+    "avg_strikes": 1.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "disguised": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "disseminate": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "douglass": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "draco": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "drumsticks": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "dubbed": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "dumping": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "dumps": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "earthquake": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "easing": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "eighteen": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "eller": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "eluded": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "embody": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "emmalin": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "encircled": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "engine": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "enhances": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "enright": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "equine": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "euphemism": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "events": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "farted": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "farts": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "favor": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "favour": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "faxes": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "fender": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "fibrosis": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "figg": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "firefighter": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "flatbush": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "flaws": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "fleeced": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "formally": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "frenetic": {
+    "avg_strikes": 1.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "frieda": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "furthermore": {
+    "avg_strikes": 0.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "future": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "gateway": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "gayle": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "geary": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "geeta": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "gert": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "ghani": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "gibbons": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "goodson": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "grandmama": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "greenie": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "gumiho": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "hanger": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "happening": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "hasselhoff": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "helsing": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "hera": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "hires": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "homes": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "hose": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "hundredth": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "idealist": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "illiterate": {
+    "avg_strikes": 1.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "incited": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "indebted": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "infants": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "injectors": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "intake": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "interiors": {
+    "avg_strikes": 1.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "introduction": {
+    "avg_strikes": 0.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "israelites": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "jimmy": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "joji": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "joshi": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "juarez": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "koichi": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "krysia": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "lapdog": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "layne": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "leftover": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "leisure": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "likable": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "limbs": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "linoleum": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "lowery": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "luke": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "lunchtime": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "magnifique": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "manet": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "maninder": {
+    "avg_strikes": 1.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "manitou": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "margery": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "marko": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "martel": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "maryam": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "massing": {
+    "avg_strikes": 1.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "mastercard": {
+    "avg_strikes": 0.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "matriarch": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "mcenroe": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "middlemen": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "misunderstood": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "mitsuhide": {
+    "avg_strikes": 1.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "monami": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "monastic": {
+    "avg_strikes": 1.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "monsoons": {
+    "avg_strikes": 1.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "monte": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "morin": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "motivated": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "mouths": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "murderers": {
+    "avg_strikes": 1.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "murdoch": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "mysticism": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "myth": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "nails": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "nanjing": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "nascar": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "navigating": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "nessa": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "nico": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "nicu": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "nixon": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "nominated": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "obese": {
+    "avg_strikes": 1.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "oblivious": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "observation": {
+    "avg_strikes": 1.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "operates": {
+    "avg_strikes": 1.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "oscillator": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "outmoded": {
+    "avg_strikes": 1.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "overhead": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "overwork": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "pacha": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "paintings": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "panty": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "passover": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "patching": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "peninsula": {
+    "avg_strikes": 0.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "pertti": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "phallus": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "pharisees": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "photoshopped": {
+    "avg_strikes": 1.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "pinpoint": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "pinpointed": {
+    "avg_strikes": 0.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "polling": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "popcorn": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "poppies": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "pranksters": {
+    "avg_strikes": 0.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "prick": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "prodding": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "promiscuity": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "pupils": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "quack": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "quimby": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "uses": 2
+  },
+  "readable": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "realtors": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "rectify": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "registered": {
+    "avg_strikes": 1.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "regretful": {
+    "avg_strikes": 0.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "regretfully": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "released": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "relic": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "resumes": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "returned": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "rigidity": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "sabu": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "sacco": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "saddened": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "salud": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "santamaria": {
+    "avg_strikes": 1.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "sarah": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "scaredy": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "schizo": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "scrapbooking": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "scrimmage": {
+    "avg_strikes": 0.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "scuffed": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "scurry": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "secondhand": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "selina": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "selkirk": {
+    "avg_strikes": 0.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "seol": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "shaolin": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "shortage": {
+    "avg_strikes": 1.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "shortest": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "shota": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "sideways": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "silliest": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "similar": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "slavery": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "sleepers": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "sleepy": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "slime": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "sludge": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "slugs": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "sniffles": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "sorrowful": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "southern": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "speedster": {
+    "avg_strikes": 1.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "spiny": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "storeys": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "strapping": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "streamline": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "struggle": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "swore": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "symbolically": {
+    "avg_strikes": 0.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "talcum": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "tangent": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "telling": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "thence": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "tickets": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "tienes": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "transvestites": {
+    "avg_strikes": 1.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "trapping": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "treasured": {
+    "avg_strikes": 1.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "trippin": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "trots": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "tuomas": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "vacancies": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "wafer": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "warpath": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "weaklings": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "weightless": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "wilting": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "winters": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "woodcutter": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "uses": 1
+  },
+  "wookiee": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "zapping": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "zelig": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "zeroing": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  },
+  "zinger": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "uses": 1
+  }
+}
