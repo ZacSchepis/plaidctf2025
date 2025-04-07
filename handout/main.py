@@ -90,15 +90,16 @@ def main(r:remote, trial, isPOW, words, output):
 
 def run_fight_bandits(ispow, long, words, output):
   # load_dic()
-  # url = "hangman.chal.pwni.ng"
-  url = "hangman1"
+  url = "hangman.chal.pwni.ng"
+  # url = "hangman1"
   if ispow:
-    # url = "hangman2.chal.pwni.ng"
-    url = "hangman2"
+    url = "hangman2.chal.pwni.ng"
+    # url = "hangman2"
   port = 6001
   if long:
     port = 6002
-  r = process([url, "../dictionary.txt", "../flag2.txt"], env=env, cwd="./bin/")
+  r = remote(url, port)
+  # r = process([url, "../dictionary.txt", "../flag2.txt"], env=env, cwd="./bin/")
   r.level = "error"
   return main(r, 0, ispow,words, output)
   
