@@ -1,1 +1,5 @@
-PCTF{fake_flag_1}
+Consarn it! You got me fair and square! You win this time, but I'll be back!
+Bandit 50 returned to jail...
+
+Well, I'll be! You done it! You saved the town from them no-good bandits! I reckon you're a hero now! Here's a little somethin' for your trouble:
+PCTF{did_you_puff_buff_words_or_was_it_too_tuff_217530dfcf80620660c0f429658c6df4}

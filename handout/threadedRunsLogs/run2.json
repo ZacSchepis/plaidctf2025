@@ -1,0 +1,3593 @@
+{
+  "abdul": {
+    "avg_strikes": 3.75,
+    "failed": 2,
+    "passed": 2,
+    "salt": "747ba451d590f7d0347b0d9b57bd9129",
+    "uses": 4
+  },
+  "abner": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "ajin": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "64229c3cd11481e6dd70c6d8bd9726f8",
+    "uses": 2
+  },
+  "alli": {
+    "avg_strikes": 4.25,
+    "failed": 1,
+    "passed": 3,
+    "salt": "5b927341f727d6cde83584c4a21400d0",
+    "uses": 4
+  },
+  "aloe": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "4445f66575a8b97c55dbc490fe323354",
+    "uses": 3
+  },
+  "anny": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "af4ab32e6f38924245161a96385209c1",
+    "uses": 1
+  },
+  "anti": {
+    "avg_strikes": 1.5,
+    "failed": 2,
+    "passed": 0,
+    "salt": null,
+    "uses": 2
+  },
+  "arif": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "45c3cd9fcf8628a5bdf06b2d964624fe",
+    "uses": 3
+  },
+  "atoll": {
+    "avg_strikes": 4.333333333333333,
+    "failed": 1,
+    "passed": 2,
+    "salt": "3ebf262d42629570b8e9026ae75de226",
+    "uses": 3
+  },
+  "augh": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "6d10c6bad70335ebf30b3edb6f18ed65",
+    "uses": 2
+  },
+  "badri": {
+    "avg_strikes": 3.5,
+    "failed": 1,
+    "passed": 1,
+    "salt": "7f57d28d4987927fad3ffd026cadaee3",
+    "uses": 2
+  },
+  "bagel": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 2,
+    "salt": "3fbeff5849cd290c6ecaa024cc40d55f",
+    "uses": 3
+  },
+  "bajor": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "4d4313d8d4d1d6035fec1cc9e992d844",
+    "uses": 1
+  },
+  "bala": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "a370f99737eae51b4d154e1d187a8a3f",
+    "uses": 3
+  },
+  "ballsy": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "1d468933becc0c409528e741c36e980a",
+    "uses": 2
+  },
+  "bana": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "cd684d614141a7ddda540f020cb142e7",
+    "uses": 1
+  },
+  "banking": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "55458acc477b757aea342a5e9b578e48",
+    "uses": 1
+  },
+  "banned": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "24dc359d451daa3289691b38003f43ff",
+    "uses": 1
+  },
+  "barfed": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "e12d8c0af1641138eb281132b2e67a77",
+    "uses": 2
+  },
+  "barged": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "5f9cdf19f628f82e7efb619426845070",
+    "uses": 1
+  },
+  "barks": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "c989df1407c930c3c50ee1f596d70477",
+    "uses": 1
+  },
+  "bash": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "0acfa344117fe6894a08702bdc036ed8",
+    "uses": 1
+  },
+  "bates": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "dea08ec7f06d26bb32aac4e5f7c918e0",
+    "uses": 3
+  },
+  "baxter": {
+    "avg_strikes": 4.666666666666667,
+    "failed": 1,
+    "passed": 2,
+    "salt": "12113e3a1c42feccf897140698d7f9d4",
+    "uses": 3
+  },
+  "bazooka\n": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "0442089a270f03ccef041d54ec9a7ae8",
+    "uses": 1
+  },
+  "beach": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "5e8c0d5c042e97e1cad106b4e48e3cee",
+    "uses": 2
+  },
+  "beet": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "7a7f6251ba6ecfa2709a531fd57e8c1a",
+    "uses": 2
+  },
+  "bellows": {
+    "avg_strikes": 3.75,
+    "failed": 3,
+    "passed": 1,
+    "salt": "b00e35dbbbb1ffdd82a984943623b923",
+    "uses": 4
+  },
+  "bended": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "beret": {
+    "avg_strikes": 3.6,
+    "failed": 2,
+    "passed": 3,
+    "salt": "09c220359a8574c7ca2fad92fe727e1f",
+    "uses": 5
+  },
+  "biff": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "864cd0213443c3bfa7b1fc0fddc24890",
+    "uses": 3
+  },
+  "billie": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 6,
+    "salt": "187c77cde6400b04e9559b55a2c276de",
+    "uses": 6
+  },
+  "bink": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "3d700ca144dbb9bc8733ac2a9492fda8",
+    "uses": 1
+  },
+  "biryu": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "978e7b37d0b8182ee6b0a4ecd5021187",
+    "uses": 1
+  },
+  "blazed": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 4,
+    "salt": "f8bf9775eb7daa9b5d618de4b36205f4",
+    "uses": 4
+  },
+  "blazer": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "9022211387b38b4528a73a1215cbed17",
+    "uses": 1
+  },
+  "bleed": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "92d2dd5b921fd3c0bf1414dce1fa3ddd",
+    "uses": 1
+  },
+  "bligh": {
+    "avg_strikes": 1.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "blight": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "87f0ac533e17c7940ee031901bb49f10",
+    "uses": 1
+  },
+  "bloat": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "b94d823504b5ba7ed38f9af2df98dfa8",
+    "uses": 1
+  },
+  "blurry": {
+    "avg_strikes": 4.666666666666667,
+    "failed": 1,
+    "passed": 2,
+    "salt": "63a7a964abea963050a54f21560b9573",
+    "uses": 3
+  },
+  "bohr": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "ebf96ab207684176146a5ca03bec9a2c",
+    "uses": 2
+  },
+  "bong": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "561f6bc62d9831c195241d4ea3f4fd93",
+    "uses": 3
+  },
+  "bonne": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 4,
+    "salt": "f5fad3e607ded388e355d313b921a4ac",
+    "uses": 4
+  },
+  "boozing": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 4,
+    "salt": "35d41c827c25a05e44a60a411cbfb0d4",
+    "uses": 4
+  },
+  "boss": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "c294c3cbef772927ce9ff7f80d7f5161",
+    "uses": 2
+  },
+  "botox": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 4,
+    "salt": "9901018e1e084b639d0dbd17bb4f8df3",
+    "uses": 4
+  },
+  "bowel": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 1,
+    "salt": "a310f4a898eb124b83ef2d3a7133ae94",
+    "uses": 2
+  },
+  "bravo": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 5,
+    "salt": "f3cf968f509d17baee79cee21e7d467d",
+    "uses": 5
+  },
+  "brawn": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "brophy": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "093fb3c8e6460ded68ebddfad0ccb83c",
+    "uses": 2
+  },
+  "bryn": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "9aad60abdd67a938e372d886b38832c3",
+    "uses": 2
+  },
+  "bubba": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 1,
+    "salt": "978d159ac0dee6fbb28de05ba93469e5",
+    "uses": 2
+  },
+  "bubber": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "6a5391ac700585f7f71cb3e947f20513",
+    "uses": 1
+  },
+  "buena": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "52681c4844039a098168f09572ebdf33",
+    "uses": 2
+  },
+  "buffer": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "71d7f9a368b368a708475307cfdd1279",
+    "uses": 2
+  },
+  "bullitt": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "6216bbf3a9ec68c1a326a82343a11ce6",
+    "uses": 2
+  },
+  "bummed": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "16b2ef2bf9311286123d6830dc6c52d3",
+    "uses": 1
+  },
+  "bumpy": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "5de8a3cfc824260a782869fc9bcac7b0",
+    "uses": 1
+  },
+  "bums": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "1603bb420f722d8d6e8c8fe48c67c01d",
+    "uses": 2
+  },
+  "bungle": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "butting": {
+    "avg_strikes": 4.6,
+    "failed": 1,
+    "passed": 4,
+    "salt": "a4bcda5cfeb746e8528d3d5fd43e6ab0",
+    "uses": 5
+  },
+  "buying": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 6,
+    "salt": "d06f061586f16c07e7b9b1e2ba6d331b",
+    "uses": 6
+  },
+  "bypass": {
+    "avg_strikes": 4.0,
+    "failed": 2,
+    "passed": 4,
+    "salt": "53d9f2d50c2964d33c2a65aca2286f13",
+    "uses": 6
+  },
+  "byuk\n": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "1234548df6256e066dd04d8223256ba1",
+    "uses": 2
+  },
+  "byun": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 1,
+    "salt": "0d81512014baea468bdbf935653814d7",
+    "uses": 2
+  },
+  "cabin": {
+    "avg_strikes": 4.6,
+    "failed": 1,
+    "passed": 4,
+    "salt": "4767a5620090e6a56bd1373f5aa213b3",
+    "uses": 5
+  },
+  "cabo": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "c3f55a7b55e70bb8f477fb654c73dad2",
+    "uses": 2
+  },
+  "caddy": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "bcf6df4a7ac64d27cb55df17ecd80484",
+    "uses": 1
+  },
+  "caen": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 4,
+    "salt": "d3b6727851180a13108067edc8d9d03d",
+    "uses": 4
+  },
+  "caine": {
+    "avg_strikes": 4.25,
+    "failed": 1,
+    "passed": 3,
+    "salt": "8a25333c7494562579819a0b03a3b3ec",
+    "uses": 4
+  },
+  "cait": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "bba32e0c9faa44828e4a3f6047a957a3",
+    "uses": 1
+  },
+  "cali": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "a1ecf1dbf51d0cef81df1120d7dcddef",
+    "uses": 2
+  },
+  "callas": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "a8b35aba267bb3bd6a7603d29a6b0031",
+    "uses": 2
+  },
+  "calling": {
+    "avg_strikes": 3.6666666666666665,
+    "failed": 2,
+    "passed": 1,
+    "salt": "3bc45fbef38b572a39b71a2f0e467f2d",
+    "uses": 3
+  },
+  "cannery": {
+    "avg_strikes": 1.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "canny": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "3c134a3b3fcd05097ce609033cb53ccd",
+    "uses": 2
+  },
+  "carm": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "54bfc544fcc99049e2e6110a96d57ceb",
+    "uses": 2
+  },
+  "casting": {
+    "avg_strikes": 4.5,
+    "failed": 1,
+    "passed": 1,
+    "salt": "111848d02c02565593ac23c3da793447",
+    "uses": 2
+  },
+  "catdog": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 4,
+    "salt": "2af3b936bb04660da9a74b8f69aa4e04",
+    "uses": 4
+  },
+  "cathy": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "433b071d83d5e0f1869c31d5f292808f",
+    "uses": 2
+  },
+  "causes": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "cawdor": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "ecd6a821735cbdeb3f8ea92c54c7dcef",
+    "uses": 3
+  },
+  "chao": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "4d504e1ed8444cf0110e71962850f8c4",
+    "uses": 3
+  },
+  "chekov": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "chews": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 1,
+    "salt": "2b5b0c88dc92e4197cfa5d97ae8a6c23",
+    "uses": 2
+  },
+  "chile": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "a85c2a1946fc99f91108883acce69bb8",
+    "uses": 2
+  },
+  "christ\n": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "d884fd019ee3518bf046154eaa169435",
+    "uses": 1
+  },
+  "chul": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 4,
+    "salt": "405a4fa4e7d92b435c672d064135fdc5",
+    "uses": 4
+  },
+  "churn": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 5,
+    "salt": "2de61b70c8f2ed9f1c53688c6a264103",
+    "uses": 5
+  },
+  "cigs\n": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "01758ad2543409b821f22a48032377f2",
+    "uses": 1
+  },
+  "cisco": {
+    "avg_strikes": 3.6666666666666665,
+    "failed": 2,
+    "passed": 1,
+    "salt": "0774497e7affbc43293236e254bcadfd",
+    "uses": 3
+  },
+  "clave": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "66a6d5c5c5ea7ff74ca17bb856d93885",
+    "uses": 1
+  },
+  "clete": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "f18d8c1e7beef2a18462f5384aa8da75",
+    "uses": 1
+  },
+  "clicks": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "cliff": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "d3fc699fcf0275e5c2850ae53eaa2ab3",
+    "uses": 3
+  },
+  "clobber": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "97c508b1f30fbaa26220ea2ef0583f24",
+    "uses": 2
+  },
+  "clotted": {
+    "avg_strikes": 4.5,
+    "failed": 1,
+    "passed": 1,
+    "salt": "41004702abc6a8e9e5c2f9188391dbae",
+    "uses": 2
+  },
+  "clumps": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "fe920a7923584668450368034c5fce43",
+    "uses": 1
+  },
+  "coles": {
+    "avg_strikes": 4.666666666666667,
+    "failed": 1,
+    "passed": 2,
+    "salt": "3cb8e7159c71902cccf666088a8a140b",
+    "uses": 3
+  },
+  "commits": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "c641d11d7d5bd73d50a8495b66314b33",
+    "uses": 1
+  },
+  "concur\n": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "eef44a76bf0f41f89319b33abd355db2",
+    "uses": 1
+  },
+  "conk": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "69915142ed4dcc10d0301e209dde5c29",
+    "uses": 2
+  },
+  "copped": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "d189e4d17c1571765582cbe474e549b4",
+    "uses": 1
+  },
+  "corby": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "9cc8de806a5c5fac41d06132c510fc76",
+    "uses": 2
+  },
+  "cows": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 4,
+    "salt": "e36a9a16bc87d5c19b53723463d179f1",
+    "uses": 4
+  },
+  "cranny": {
+    "avg_strikes": 4.75,
+    "failed": 1,
+    "passed": 3,
+    "salt": "7209b6cd72e369aa7f774b9805f13c30",
+    "uses": 4
+  },
+  "craps": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "57c511f236e93a13fc2c2b7943def49f",
+    "uses": 3
+  },
+  "craw": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 4,
+    "salt": "1e421fbef9305ef3d2cf22cb6535b668",
+    "uses": 4
+  },
+  "crepe": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "ed3e8ed581b73dab3b30630a42d5c986",
+    "uses": 2
+  },
+  "croon": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "805c4721aee3ed74dc47bb5ee93e1721",
+    "uses": 2
+  },
+  "curved": {
+    "avg_strikes": 4.5,
+    "failed": 1,
+    "passed": 1,
+    "salt": "d6e4dc2b50cebc266295ec3610950298",
+    "uses": 2
+  },
+  "cuss": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "cuter": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "7d6ced9bde31b7c73c258e99ba1cc2fe",
+    "uses": 2
+  },
+  "cutler": {
+    "avg_strikes": 3.8333333333333335,
+    "failed": 4,
+    "passed": 2,
+    "salt": "7fa1a677b98c25a34736a173f2898f47",
+    "uses": 6
+  },
+  "cylon": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "dago": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "8052e5badf893958d59bf3df14dda215",
+    "uses": 2
+  },
+  "darren": {
+    "avg_strikes": 4.0,
+    "failed": 3,
+    "passed": 5,
+    "salt": "c5083f10ffdc33a344b52d51b59c89b6",
+    "uses": 8
+  },
+  "dawg": {
+    "avg_strikes": 4.5,
+    "failed": 1,
+    "passed": 1,
+    "salt": "00e8a10bd348953061040d2460231da8",
+    "uses": 2
+  },
+  "dazzle": {
+    "avg_strikes": 4.5,
+    "failed": 1,
+    "passed": 3,
+    "salt": "85fec7a26d249d795e5b7fe52463849a",
+    "uses": 4
+  },
+  "diaper": {
+    "avg_strikes": 2.75,
+    "failed": 3,
+    "passed": 1,
+    "salt": "924554dd329fbde65b40e3549ff33041",
+    "uses": 4
+  },
+  "didem": {
+    "avg_strikes": 4.6,
+    "failed": 1,
+    "passed": 4,
+    "salt": "60fe8603ed3710122dd2200640f3df37",
+    "uses": 5
+  },
+  "dime": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 4,
+    "salt": "81565d54f897baf850d97bebc097b007",
+    "uses": 4
+  },
+  "disher": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 1,
+    "salt": "f136c5007f640152cd8a2ef5f47ab324",
+    "uses": 2
+  },
+  "divas": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "ffbeacd150230c926fed97aa47730fcc",
+    "uses": 2
+  },
+  "dodd": {
+    "avg_strikes": 4.8,
+    "failed": 1,
+    "passed": 4,
+    "salt": "41c7f941c5f74d4bfe2a9b56085bd63d",
+    "uses": 5
+  },
+  "dolan": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "9a04b6855e741742c584cc6a546b6a6a",
+    "uses": 1
+  },
+  "dolby": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "b2041be97d02cea454287a6443eed19e",
+    "uses": 2
+  },
+  "dolly": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "897a35e9c702e87e431716cd4ca6d22d",
+    "uses": 1
+  },
+  "dono": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "9116e192449d3ee1cdcb4f94af6b8cb7",
+    "uses": 3
+  },
+  "dont": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "ef7a0bbae8197c9dd3edf7a5d24d92f9",
+    "uses": 3
+  },
+  "drake": {
+    "avg_strikes": 3.0,
+    "failed": 2,
+    "passed": 1,
+    "salt": "6f42560389d7100b4c72638ea54b8fe6",
+    "uses": 3
+  },
+  "dress": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "dried": {
+    "avg_strikes": 4.0,
+    "failed": 4,
+    "passed": 3,
+    "salt": "2c4b5af122447b1f564798cf679734f1",
+    "uses": 7
+  },
+  "duds": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "9ed05ae72722e7297d4ca8570bb0f212",
+    "uses": 3
+  },
+  "duel": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "166a70b5944b538c5a5e1a875a2bd016",
+    "uses": 1
+  },
+  "dumb": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "b8bc50c581ffe5efcd3d090540672265",
+    "uses": 2
+  },
+  "duran": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 1,
+    "salt": "95cb4f92c3138dfffb77cf70ed7fac10",
+    "uses": 2
+  },
+  "easy": {
+    "avg_strikes": 4.5,
+    "failed": 1,
+    "passed": 1,
+    "salt": "fedbe7354f1f1ba5929ff901febd6907",
+    "uses": 2
+  },
+  "elin": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "eb22db9e74908801197d80a441f37e7a",
+    "uses": 2
+  },
+  "ellie": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "e372d6e7073dcfc091735dc67af2ca62",
+    "uses": 1
+  },
+  "enjoy": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "2538773208f9ea4e6a411db2f886b39b",
+    "uses": 1
+  },
+  "equine": {
+    "avg_strikes": 3.0,
+    "failed": 3,
+    "passed": 1,
+    "salt": "a5a5f1514e46e225f853e146a9e3a4f7",
+    "uses": 4
+  },
+  "erinn": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "evert": {
+    "avg_strikes": 4.5,
+    "failed": 1,
+    "passed": 1,
+    "salt": "31c3a31d91c484c839f653a74e5cfd4e",
+    "uses": 2
+  },
+  "evoke": {
+    "avg_strikes": 4.666666666666667,
+    "failed": 1,
+    "passed": 2,
+    "salt": "9f0104f2bc8e1c8f1ff7a9b33a4371ba",
+    "uses": 3
+  },
+  "fain": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "54928d4b624f250791d68febfc3e2b3b",
+    "uses": 3
+  },
+  "fair": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 1,
+    "salt": "844c0f69e94618f773dba138dfbc45ab",
+    "uses": 2
+  },
+  "falco": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "dddc0f7f9a3d19480e29d5dd5fee8adc",
+    "uses": 2
+  },
+  "fanned": {
+    "avg_strikes": 4.0,
+    "failed": 2,
+    "passed": 0,
+    "salt": null,
+    "uses": 2
+  },
+  "farms": {
+    "avg_strikes": 4.75,
+    "failed": 1,
+    "passed": 3,
+    "salt": "71fd784057a90a921c6800646fb07359",
+    "uses": 4
+  },
+  "father\n": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "c3ba72cbe27fdfafcf927b165645a780",
+    "uses": 1
+  },
+  "fatted": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "ffa8a4fc90353719972b26cbb00e3ccc",
+    "uses": 1
+  },
+  "faun": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 4,
+    "salt": "d73db993871cd3968efe8509600d0f4e",
+    "uses": 4
+  },
+  "fear": {
+    "avg_strikes": 4.5,
+    "failed": 1,
+    "passed": 1,
+    "salt": "e06f967c620afcef58eadaf15bb8e49d",
+    "uses": 2
+  },
+  "fedya": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 1,
+    "salt": "b84ab3d621b9e8ef81c9ae55e134ba63",
+    "uses": 2
+  },
+  "feuds": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "cabe8f2dc9d77ca22df55200c04e8ed8",
+    "uses": 2
+  },
+  "flaw": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "01669132bb00e4e4df677f2e5b7a02e3",
+    "uses": 2
+  },
+  "fleed": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "70bd5fcf95fcf2d2a46f572ecb513a26",
+    "uses": 3
+  },
+  "flex": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 5,
+    "salt": "b9d3f5b4994bde1607a93eb3e58ad970",
+    "uses": 5
+  },
+  "flour": {
+    "avg_strikes": 3.6666666666666665,
+    "failed": 1,
+    "passed": 2,
+    "salt": "804995d34fa2a17e32ff773920817e9f",
+    "uses": 3
+  },
+  "foie": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "bbafc9cda45a76128f68936d385714f4",
+    "uses": 1
+  },
+  "foray": {
+    "avg_strikes": 4.5,
+    "failed": 1,
+    "passed": 1,
+    "salt": "dbe32397ab8aeb09cfd1ab5be07ff6e1",
+    "uses": 2
+  },
+  "forego": {
+    "avg_strikes": 2.6666666666666665,
+    "failed": 2,
+    "passed": 1,
+    "salt": "7599ea7c642fd3d631012b5ee098ac88",
+    "uses": 3
+  },
+  "fought": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "c671e1179fb5311ed5dece55c1f94732",
+    "uses": 2
+  },
+  "fowl": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "f4cfd3dd44b7eda0bc3afac2e7ad88b5",
+    "uses": 1
+  },
+  "frack": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "9fbc1c6905117ff506ad226b8e683a95",
+    "uses": 1
+  },
+  "frakking": {
+    "avg_strikes": 3.0,
+    "failed": 2,
+    "passed": 0,
+    "salt": null,
+    "uses": 2
+  },
+  "franck": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 1,
+    "salt": "03bd8ee7bf8c7fdbb34aa650821170c4",
+    "uses": 2
+  },
+  "fred": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "b9066e234bb9d433737fec6b6a5ac4f5",
+    "uses": 1
+  },
+  "freer": {
+    "avg_strikes": 4.333333333333333,
+    "failed": 2,
+    "passed": 1,
+    "salt": "2386356cafe9d990e405ebd5c88e9de6",
+    "uses": 3
+  },
+  "freud": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "659c18d3bc42b3dd6f592f2958da66ef",
+    "uses": 1
+  },
+  "frey": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 1,
+    "salt": "8b2905bbdaab33d3ea97196fe8986cbd",
+    "uses": 2
+  },
+  "fronds": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "ed32e5141b99547bdb3d4819fd5ea7fa",
+    "uses": 1
+  },
+  "fuckin": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "fuels": {
+    "avg_strikes": 4.8,
+    "failed": 1,
+    "passed": 4,
+    "salt": "90432ce2b20a128b391a714e9a415430",
+    "uses": 5
+  },
+  "fuller": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 7,
+    "salt": "3f4b0498398b046e2d0b015b0e950e16",
+    "uses": 7
+  },
+  "gael": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "6aaed88657cedf5e9ba252ef20506b5b",
+    "uses": 1
+  },
+  "gals": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 4,
+    "salt": "b683bdc949cb8ac7003db79b355a8434",
+    "uses": 4
+  },
+  "galvin": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "69044dd23614cf1b237d9223ac3f0cec",
+    "uses": 1
+  },
+  "garnet": {
+    "avg_strikes": 2.6666666666666665,
+    "failed": 2,
+    "passed": 1,
+    "salt": "f00d13d4f668d9d67f56342408100b3d",
+    "uses": 3
+  },
+  "gente\n": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "1a71190db599ea9c5d80d4656e518937",
+    "uses": 3
+  },
+  "ginza": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "glum": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 1,
+    "salt": "925ee7ff257b7378685620f3e5e63ad4",
+    "uses": 2
+  },
+  "gonzo": {
+    "avg_strikes": 3.5,
+    "failed": 2,
+    "passed": 2,
+    "salt": "7b73f96ded360f6681d1f245f69261a1",
+    "uses": 4
+  },
+  "gora": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "f72f939f9594c97acc25eb2480d81b6b",
+    "uses": 2
+  },
+  "gorky": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "2229234a967ba64cc5af75b112fe4962",
+    "uses": 1
+  },
+  "gots": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "f709819eb19d5e4765f58c41fe698da6",
+    "uses": 1
+  },
+  "gowns": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "69ffc07157f6fbae83952789a8cdcccb",
+    "uses": 2
+  },
+  "grabber": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 1,
+    "salt": "e4d100300d8b34ac530e650154de04e3",
+    "uses": 2
+  },
+  "griff": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "5456edc16a53cbb2983ec966c5dc908a",
+    "uses": 2
+  },
+  "gritty": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "guile": {
+    "avg_strikes": 4.75,
+    "failed": 1,
+    "passed": 3,
+    "salt": "8ab6aa5ab0d4d69a4a3679445d489d5d",
+    "uses": 4
+  },
+  "guna": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "17feef00b8170d3c44f97645216d31f4",
+    "uses": 2
+  },
+  "gust": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "335b338c9b42a6a5d84563da64126da9",
+    "uses": 1
+  },
+  "hack": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 1,
+    "salt": "8122ebc890b1dec6caba655c1f880e5b",
+    "uses": 2
+  },
+  "haddie": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "00f4b1c7fa8469c36800f5e20ce38375",
+    "uses": 1
+  },
+  "hadley": {
+    "avg_strikes": 4.333333333333333,
+    "failed": 1,
+    "passed": 2,
+    "salt": "9ff82ade0a335db7234fdab20153e7d1",
+    "uses": 3
+  },
+  "hahaha": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "hailey": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 4,
+    "salt": "6ffadeeadd90ac7c13d2c4a076ddd456",
+    "uses": 4
+  },
+  "hales": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "22060674fc009a4d60f948d6698d6abc",
+    "uses": 2
+  },
+  "halima": {
+    "avg_strikes": 4.5,
+    "failed": 1,
+    "passed": 1,
+    "salt": "5837330328e5fa7dcb4ae99162ebcda7",
+    "uses": 2
+  },
+  "halle": {
+    "avg_strikes": 4.666666666666667,
+    "failed": 1,
+    "passed": 2,
+    "salt": "c9125a6203edeb76b0ab3d742e7ff202",
+    "uses": 3
+  },
+  "halter": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 1,
+    "salt": "e7a59c0f97385626ecf7792febaf42cd",
+    "uses": 2
+  },
+  "hamm": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 1,
+    "salt": "c29ea388b2a8baf5a9062d0b3995c7b4",
+    "uses": 2
+  },
+  "hangin": {
+    "avg_strikes": 3.5,
+    "failed": 1,
+    "passed": 1,
+    "salt": "8e64d155de3f64c96d547dd8f94eb447",
+    "uses": 2
+  },
+  "hara": {
+    "avg_strikes": 4.75,
+    "failed": 1,
+    "passed": 3,
+    "salt": "1fa09b8b312b73efe8606fd0730e49ea",
+    "uses": 4
+  },
+  "harley": {
+    "avg_strikes": 4.8,
+    "failed": 1,
+    "passed": 4,
+    "salt": "8575af292f5bb207b3edaa50696c5b1e",
+    "uses": 5
+  },
+  "hart": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "1d1d6266761172cd2c6be44da7ba1f25",
+    "uses": 2
+  },
+  "hatin": {
+    "avg_strikes": 4.25,
+    "failed": 1,
+    "passed": 3,
+    "salt": "d3b2f52957e1d3ab461cc080e2eb1da5",
+    "uses": 4
+  },
+  "haven": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "6286734bcce1c6525c6c5c975847a75b",
+    "uses": 3
+  },
+  "hawes": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "a2adc8c3b9a0d340114212a98370b654",
+    "uses": 2
+  },
+  "hester": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "8311fc1e5886df9057811c68936efa97",
+    "uses": 1
+  },
+  "hobo": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "hoes": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "19241c3c9df86939ea077536ccde936b",
+    "uses": 1
+  },
+  "holes": {
+    "avg_strikes": 4.5,
+    "failed": 1,
+    "passed": 3,
+    "salt": "9d15c475a371f4b7ba4bf813e4b5a1ae",
+    "uses": 4
+  },
+  "holly": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 4,
+    "salt": "352daec5cb92af9748de9adb5f3096d3",
+    "uses": 4
+  },
+  "hops": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "a1b70c1ae87dac63a1a4c9117bef6f55",
+    "uses": 1
+  },
+  "howls": {
+    "avg_strikes": 4.6,
+    "failed": 2,
+    "passed": 3,
+    "salt": "08d81e83f75b583665819380f69af95b",
+    "uses": 5
+  },
+  "huddled": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 4,
+    "salt": "1b18cbcdc37753493a9d92efc04966d7",
+    "uses": 4
+  },
+  "humping": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "0f60fd187ba0fc5ba0f06c795dde06f7",
+    "uses": 3
+  },
+  "ious": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "3d8e637119c7f051aaebec00ebe5f484",
+    "uses": 2
+  },
+  "ipads": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 2,
+    "salt": "b6efb6dc240a63a2f9a9c49adc651b64",
+    "uses": 3
+  },
+  "iqbal": {
+    "avg_strikes": 3.3333333333333335,
+    "failed": 2,
+    "passed": 1,
+    "salt": "f8816c447eb4f2c6626c7209456312f2",
+    "uses": 3
+  },
+  "jacked": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "85ed35fb8795e418336bb3fdb104373e",
+    "uses": 2
+  },
+  "jafar": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "9d5c210004ec8a482c3492e94dd25e10",
+    "uses": 3
+  },
+  "jase": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "b17eb96c72b898e71af2b1bc3323752d",
+    "uses": 1
+  },
+  "java": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 5,
+    "salt": "387fcf613c45de6c19e54fc668fae65c",
+    "uses": 5
+  },
+  "jeet": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "188c3e5e0ce90a5742e6dc1cb8587401",
+    "uses": 1
+  },
+  "jens": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "d7859b084a6e61177f5b0fef5f00ed57",
+    "uses": 2
+  },
+  "jimmy": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 6,
+    "salt": "204e1db581118c74cfa3d924343a24ac",
+    "uses": 6
+  },
+  "jokers": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "a764278584e2fd20139caf05f5a1ae67",
+    "uses": 2
+  },
+  "jolly": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "78a401e947849202582215a5ec5e8534",
+    "uses": 3
+  },
+  "joosep": {
+    "avg_strikes": 4.25,
+    "failed": 1,
+    "passed": 3,
+    "salt": "71b87bdf43d616f06b56c2393c968bb2",
+    "uses": 4
+  },
+  "joshy": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "8bacb81b95c9fba54c6476b93ad5e565",
+    "uses": 1
+  },
+  "junie\n": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "df03eda19155736210729bf2ad5a0ccf",
+    "uses": 3
+  },
+  "juve": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "e9471ee011be293b9b2e938d7b79d8ad",
+    "uses": 1
+  },
+  "kafka": {
+    "avg_strikes": 4.25,
+    "failed": 2,
+    "passed": 2,
+    "salt": "30a93e3baf5d74a4d35c8f9d9b4127bf",
+    "uses": 4
+  },
+  "kagan": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "9022cf484fbf38bc1e93a26e1d8dc9ff",
+    "uses": 1
+  },
+  "kamina": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "f6c9c1e72109211dac98d06dd53d9a65",
+    "uses": 1
+  },
+  "kean": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "5b0584ae735d6e7cb78ec8a38e44d1e1",
+    "uses": 1
+  },
+  "kell": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "82df0f95b9bd49913e4a91edd81f72f4",
+    "uses": 2
+  },
+  "kenya": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "995b1376a9fbf5d0821b4e21299dcc6b",
+    "uses": 2
+  },
+  "kidder": {
+    "avg_strikes": 1.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "kikuchi": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "ff8676e3be5c78f712faec21ecb59554",
+    "uses": 1
+  },
+  "killjoy": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 1,
+    "salt": "372df594e6c324f2feb839cbed56d194",
+    "uses": 2
+  },
+  "kojima": {
+    "avg_strikes": 4.6,
+    "failed": 1,
+    "passed": 4,
+    "salt": "17c014df78094547132521ee2399af86",
+    "uses": 5
+  },
+  "kraken": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "kratz": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "5a865faa36af8730d21094fcd6e3068c",
+    "uses": 3
+  },
+  "kray": {
+    "avg_strikes": 3.5,
+    "failed": 1,
+    "passed": 1,
+    "salt": "aa3a36a283f883aaa16e4fdbb5971a3c",
+    "uses": 2
+  },
+  "kwun": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 4,
+    "salt": "42b4dd7f16a87800a4194ab61cbe94f4",
+    "uses": 4
+  },
+  "laces": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "e0528efeeff7f0118fa507c4cc09b52a",
+    "uses": 3
+  },
+  "ladder": {
+    "avg_strikes": 3.0,
+    "failed": 2,
+    "passed": 1,
+    "salt": "4f18ba415c0193fe9f3934851b73946d",
+    "uses": 3
+  },
+  "lando": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "4c525fa36166198864f9d475b9c0bd6a",
+    "uses": 1
+  },
+  "laptop": {
+    "avg_strikes": 2.5,
+    "failed": 1,
+    "passed": 1,
+    "salt": "b0068ec8f258c5f75e2dbbfcc5fbf595",
+    "uses": 2
+  },
+  "launch": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "c86edb93bfcdf1b58ee983139c37b1d6",
+    "uses": 1
+  },
+  "lazar": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "leafs": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "0c60bcd94e9a0941fe8c435a0073c632",
+    "uses": 1
+  },
+  "lenny": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "d0b1618aba886b995a3db6d96b7abcf4",
+    "uses": 1
+  },
+  "lettie": {
+    "avg_strikes": 3.3333333333333335,
+    "failed": 2,
+    "passed": 1,
+    "salt": "4236ce4d8deb9e08f205502d3fbde4eb",
+    "uses": 3
+  },
+  "lied": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "ca24676427a533ad7e6bffbf5ce837ee",
+    "uses": 3
+  },
+  "limbs": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 5,
+    "salt": "f2f0ad151dc517b4b9ad576b1853bfca",
+    "uses": 5
+  },
+  "lime": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "108370b9cc2f597f78d284ea05b880f0",
+    "uses": 3
+  },
+  "lina": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "liven": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 2,
+    "salt": "f0be0d58b0ef809da632e927f89c9d5f",
+    "uses": 3
+  },
+  "livery": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "813f51ad65b3634099a98be11a40ef66",
+    "uses": 2
+  },
+  "locks": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "lode": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "38f640e547a6feaea99a72dfd7495601",
+    "uses": 3
+  },
+  "loin": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 1,
+    "salt": "5277358f40e9493cd8c6f4619f0a6fab",
+    "uses": 2
+  },
+  "lore": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "c8f5c54ea02900aff71b744259c98c18",
+    "uses": 1
+  },
+  "loved": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "74cd99114bb92d4a170b0a379538f396",
+    "uses": 1
+  },
+  "lows": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 4,
+    "salt": "2f929d2d08a261c5e6291d3c08c8d211",
+    "uses": 4
+  },
+  "lucid": {
+    "avg_strikes": 3.5,
+    "failed": 3,
+    "passed": 1,
+    "salt": "e92bc6931ee789b91e3bab8ca99d64a3",
+    "uses": 4
+  },
+  "lynx": {
+    "avg_strikes": 4.5,
+    "failed": 1,
+    "passed": 3,
+    "salt": "e5e4ca414409dcf83d9f6739dfb8e344",
+    "uses": 4
+  },
+  "mach": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "bf7a66025986861cbb080b3e664a72eb",
+    "uses": 2
+  },
+  "maggy": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "a67abcf948f81ac28daa77c523a6d066",
+    "uses": 1
+  },
+  "magic": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "5022981f5588bd203ea545fc3fb195a0",
+    "uses": 1
+  },
+  "mailer": {
+    "avg_strikes": 1.5,
+    "failed": 2,
+    "passed": 0,
+    "salt": null,
+    "uses": 2
+  },
+  "mallory": {
+    "avg_strikes": 4.5,
+    "failed": 1,
+    "passed": 1,
+    "salt": "905269b91b67943bb4596bf941d93263",
+    "uses": 2
+  },
+  "malou": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "90a05e34340263903f9eb0a60069fcc6",
+    "uses": 1
+  },
+  "mapo": {
+    "avg_strikes": 4.333333333333333,
+    "failed": 1,
+    "passed": 2,
+    "salt": "4ccb6e708d500ccaecba178c88529a66",
+    "uses": 3
+  },
+  "mara": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 6,
+    "salt": "3d0a57fcc93946a961d8e1584cd1b33c",
+    "uses": 6
+  },
+  "marge": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 4,
+    "salt": "63ebb6c7e26e30e4c0c48a5179e1c239",
+    "uses": 4
+  },
+  "margo": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "641558287b43197da866c23eefcda7e8",
+    "uses": 1
+  },
+  "mary": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "50ade4ab2365ad8ef4f2018177f6c0c3",
+    "uses": 3
+  },
+  "marys": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "c54de76a7f9dc0986c05ebcacf6f0294",
+    "uses": 2
+  },
+  "mask": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "6e79159f77349053f98ef923dd2ee3af",
+    "uses": 2
+  },
+  "masuka": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "match": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 5,
+    "salt": "b24adec22d7398d4d3e863e07bb5f403",
+    "uses": 5
+  },
+  "mathew": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "92d7f44ea6a74520c6ae6c5265ad77d5",
+    "uses": 2
+  },
+  "mats": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "6a3f2258d3760a89826a8191a5b236b7",
+    "uses": 3
+  },
+  "mauser": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "d348634ea0d749b335c381457514af3c",
+    "uses": 1
+  },
+  "mayes": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 1,
+    "salt": "278bd092e1eba9515e7935060830fd11",
+    "uses": 2
+  },
+  "meade": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "1a988d61a6c481bbb9b38a6c33c41e64",
+    "uses": 1
+  },
+  "meeks": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "390ff28a3d1b8b1ddbca6294c4beb954",
+    "uses": 2
+  },
+  "members": {
+    "avg_strikes": 2.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "merge": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "b5923aa05d464658fca6be673299f0a2",
+    "uses": 2
+  },
+  "meth": {
+    "avg_strikes": 4.333333333333333,
+    "failed": 1,
+    "passed": 2,
+    "salt": "f6e11b15a53360f417d53257cfd39717",
+    "uses": 3
+  },
+  "mine": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "09b2f44630c876fc96ada8e3afbd7fa3",
+    "uses": 3
+  },
+  "minnie": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "05bb5c04a41c55b0df6b33923d538308",
+    "uses": 2
+  },
+  "minx": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 5,
+    "salt": "c35784274e8fec9351476ddd938275d3",
+    "uses": 5
+  },
+  "miss": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "bf7323d755cdbf21e538c70e1dffd6fb",
+    "uses": 1
+  },
+  "mita": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "e08e62ba56a7b2f3e03aef0b79bda13b",
+    "uses": 2
+  },
+  "mogul": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "8c50955f754b1ba9e1fefb6f5a0bf5a2",
+    "uses": 1
+  },
+  "morse": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "muck": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "576a612781099da4d8c5eff3251fbab7",
+    "uses": 1
+  },
+  "mucus": {
+    "avg_strikes": 4.5,
+    "failed": 1,
+    "passed": 3,
+    "salt": "7838486ede1b273c821c141a97d4eb1b",
+    "uses": 4
+  },
+  "mummies": {
+    "avg_strikes": 4.333333333333333,
+    "failed": 1,
+    "passed": 2,
+    "salt": "af21de3c8245d977f5428be49ea3ca19",
+    "uses": 3
+  },
+  "mune": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "46ab359e042347ca14676defed5f9d7c",
+    "uses": 1
+  },
+  "nacho": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "ec3483d3859ceb7f4cf94104bcda5a7f",
+    "uses": 1
+  },
+  "nando": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "325f9a2e3628b6a9c8e16ecbd12bfb45",
+    "uses": 1
+  },
+  "nawab": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 4,
+    "salt": "e4b1e37cfe9049f54ac3c9d5bf16a4b6",
+    "uses": 4
+  },
+  "nazis": {
+    "avg_strikes": 3.5,
+    "failed": 1,
+    "passed": 1,
+    "salt": "220edaecaa57a733b7d04932e3610371",
+    "uses": 2
+  },
+  "nils": {
+    "avg_strikes": 3.0,
+    "failed": 2,
+    "passed": 1,
+    "salt": "9e93f28b56ed77037d9eb175d0677897",
+    "uses": 3
+  },
+  "nota": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "nunez": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 4,
+    "salt": "45332c1a53d31ce3f06538021857e6d6",
+    "uses": 4
+  },
+  "odell": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "ofyou": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "c06212392c5e57b6bee7ce9ba0009db1",
+    "uses": 2
+  },
+  "ogle": {
+    "avg_strikes": 3.5,
+    "failed": 1,
+    "passed": 1,
+    "salt": "7381fa300d93781916df1a2aa1699919",
+    "uses": 2
+  },
+  "olive": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "c4b286d885b3694b5e4a3b5655811503",
+    "uses": 2
+  },
+  "oliver": {
+    "avg_strikes": 4.0,
+    "failed": 2,
+    "passed": 0,
+    "salt": null,
+    "uses": 2
+  },
+  "oral": {
+    "avg_strikes": 4.0,
+    "failed": 2,
+    "passed": 2,
+    "salt": "ae871c17f05e2311c735cc9d5a8176f5",
+    "uses": 4
+  },
+  "oyez": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "360cfd2d594c68c47bc24fc7c34ca663",
+    "uses": 3
+  },
+  "ozan": {
+    "avg_strikes": 1.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "pads": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 1,
+    "salt": "b95add96c675e39275598a9ae00c10e6",
+    "uses": 2
+  },
+  "pair": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "327e3083d15ee75d46e73cd63a41a48d",
+    "uses": 2
+  },
+  "pater": {
+    "avg_strikes": 4.0,
+    "failed": 2,
+    "passed": 1,
+    "salt": "02c4124f4a680075d6834f6d1dde608e",
+    "uses": 3
+  },
+  "paul": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "6af5517b8443d2f1d8fc3a7452294b24",
+    "uses": 3
+  },
+  "payin": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "2e513bd4da67c5c099ea3207b5bb61ad",
+    "uses": 1
+  },
+  "peck": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 4,
+    "salt": "5e5eac7e998e6ffa472ac79625b5bc66",
+    "uses": 4
+  },
+  "peds": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "aea8f3b93b50b873dd87d144b2a593d4",
+    "uses": 3
+  },
+  "pegged": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 4,
+    "salt": "dea5adbf3c838bdf5b13eaa718741e8c",
+    "uses": 4
+  },
+  "pending": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 1,
+    "salt": "75829aaa0749cfc319a686b9b4315567",
+    "uses": 2
+  },
+  "penh": {
+    "avg_strikes": 0.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "perks": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "aa2fd16719ad9534feabe9fc1663f9bf",
+    "uses": 2
+  },
+  "peso": {
+    "avg_strikes": 4.25,
+    "failed": 1,
+    "passed": 3,
+    "salt": "0e2ba6a3d32db2646d675a3987a24abe",
+    "uses": 4
+  },
+  "phase": {
+    "avg_strikes": 2.3333333333333335,
+    "failed": 3,
+    "passed": 0,
+    "salt": null,
+    "uses": 3
+  },
+  "phat": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "b06f861228bb1469c965209e5340360f",
+    "uses": 1
+  },
+  "picket": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "56a6f8fa5bac4112f1ca213eadbe79d8",
+    "uses": 2
+  },
+  "pietje": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "053b9a0189af8c7f4e107d5ebad0b6bd",
+    "uses": 1
+  },
+  "pimpin": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "d2236405b9b1f798279e2a8d3f486485",
+    "uses": 1
+  },
+  "pini": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "c66e4d2c728cd213f217be81760ec44f",
+    "uses": 1
+  },
+  "pink": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "18eae66f835ca2402d03f76a063eb741",
+    "uses": 2
+  },
+  "pippo": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "a8f5922d231df20de967066afa1f4361",
+    "uses": 1
+  },
+  "piti": {
+    "avg_strikes": 3.6666666666666665,
+    "failed": 1,
+    "passed": 2,
+    "salt": "39cf42517a0675c9f8690ccffdd5af60",
+    "uses": 3
+  },
+  "pooped": {
+    "avg_strikes": 4.5,
+    "failed": 1,
+    "passed": 1,
+    "salt": "cdcbb251530c29bb9633e4deba6bb8bd",
+    "uses": 2
+  },
+  "pounded": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 1,
+    "salt": "59d536fae395507cf80c195ad759ca71",
+    "uses": 2
+  },
+  "prickly": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 2,
+    "salt": "44dc15a3dbaf4a0b692e536bf7b9c38d",
+    "uses": 3
+  },
+  "prime": {
+    "avg_strikes": 4.8,
+    "failed": 1,
+    "passed": 4,
+    "salt": "b01afd697fb7ccbb28ad6b10a88fe079",
+    "uses": 5
+  },
+  "prone": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 1,
+    "salt": "55a6bba78b28384b153d15b4d1009c09",
+    "uses": 2
+  },
+  "puffed": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 1,
+    "salt": "2418e64d4b0eeb2ab45c64cb97193e7c",
+    "uses": 2
+  },
+  "puffs": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "4ee58c76c45b6b94aeb91926144cfa08",
+    "uses": 1
+  },
+  "puppy": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "8ed777db6ececf35dfdd638782184978",
+    "uses": 1
+  },
+  "puri": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "f4ae6ca8ea8389f95bce474049a7392c",
+    "uses": 3
+  },
+  "quick": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 5,
+    "salt": "bc35bbd4c259d71eda7070c4ac0608ec",
+    "uses": 5
+  },
+  "quote": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "58ddc2e60cd23d1cbf49040931dc2dc5",
+    "uses": 2
+  },
+  "remedy": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "d4186dd0162d1681c1c114c9a9ce4d3e",
+    "uses": 3
+  },
+  "repo": {
+    "avg_strikes": 4.0,
+    "failed": 3,
+    "passed": 0,
+    "salt": null,
+    "uses": 3
+  },
+  "rich": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "295e5211fef6150bd45d18ed6d037c07",
+    "uses": 2
+  },
+  "ritzy": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 7,
+    "salt": "fb4e84b9818109ea1ef062632204f76c",
+    "uses": 7
+  },
+  "rivet": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "6037e8289a5ab41d82c2cb7b3766e37c",
+    "uses": 2
+  },
+  "robbed": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "05b1515eb1411aa33bfd86cacbd5aa5b",
+    "uses": 3
+  },
+  "rolled": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "153eb8b8010d7e3e0111ce52dacbd257",
+    "uses": 1
+  },
+  "rowe": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 6,
+    "salt": "b71df62fc351ca67bab8591d2b64019e",
+    "uses": 6
+  },
+  "roya": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "4baf2bd0056a5790e9ea2790e1da816f",
+    "uses": 3
+  },
+  "rudd": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "fed11169343a1aa6e19add21a8d7ab69",
+    "uses": 1
+  },
+  "ruled": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "9868437f256e8d49d07712855fc78fec",
+    "uses": 1
+  },
+  "runny": {
+    "avg_strikes": 4.5,
+    "failed": 1,
+    "passed": 1,
+    "salt": "45a67584cf89d42456eeb9db661f427a",
+    "uses": 2
+  },
+  "ruth": {
+    "avg_strikes": 4.5,
+    "failed": 1,
+    "passed": 1,
+    "salt": "77cf99a25975ffecac75695880f011c1",
+    "uses": 2
+  },
+  "sadako": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "3008b1b98c479a0a641d497054d46066",
+    "uses": 3
+  },
+  "safes": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "85fc83a8ca3084ccb3c901613ec7eb9f",
+    "uses": 3
+  },
+  "saffy": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "9efc1e34c0bf19f9a249a51225298f50",
+    "uses": 2
+  },
+  "saga\n": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 4,
+    "salt": "8b507d1058094e0f297596e1a84bf9cc",
+    "uses": 4
+  },
+  "sambo": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 3,
+    "salt": "e0275d9b498e2c28c2b9ded2371e86ce",
+    "uses": 4
+  },
+  "same": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "1835cf551c89096ca05aa976a29dcefc",
+    "uses": 2
+  },
+  "samy": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "098f15857b1dd52274d317cd09249207",
+    "uses": 2
+  },
+  "saran": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "7eeca29bd35390ff4504f213a6ba0bd0",
+    "uses": 2
+  },
+  "sauce": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "b9255d564fc8066d5361d09251288e0f",
+    "uses": 1
+  },
+  "saver": {
+    "avg_strikes": 4.0,
+    "failed": 2,
+    "passed": 2,
+    "salt": "14a0d80ed4702a32984b85991516df70",
+    "uses": 4
+  },
+  "scot": {
+    "avg_strikes": 4.75,
+    "failed": 1,
+    "passed": 3,
+    "salt": "0ea3a9b982313ecf3dbc202c1ee3df17",
+    "uses": 4
+  },
+  "scurvy": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "87e700ea17ff7fb5e2eb3cae221463a6",
+    "uses": 1
+  },
+  "seeks": {
+    "avg_strikes": 4.5,
+    "failed": 1,
+    "passed": 3,
+    "salt": "0961d547ad4f05d14f5e69b85d7f42f5",
+    "uses": 4
+  },
+  "sequins": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "395bcc0bdf2dc0d61bc7b0ce2f91e995",
+    "uses": 1
+  },
+  "serves": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "e57c7887dfbbbee71afaa3841b0a65c3",
+    "uses": 2
+  },
+  "sever": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "6f8f6fceddb4eaabea97ad3d08cc12f0",
+    "uses": 2
+  },
+  "sews": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "95bc3d72b86a30971eab20a25c10b900",
+    "uses": 3
+  },
+  "sforza": {
+    "avg_strikes": 4.333333333333333,
+    "failed": 2,
+    "passed": 1,
+    "salt": "f22731a2ae7e2f266ac0fe1f6b5be0ba",
+    "uses": 3
+  },
+  "shake": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "bbdf4351b242e4642e422d205ef3a617",
+    "uses": 2
+  },
+  "shay": {
+    "avg_strikes": 4.666666666666667,
+    "failed": 1,
+    "passed": 2,
+    "salt": "48bff956bf043a6e77f418785ef3f7cd",
+    "uses": 3
+  },
+  "shel": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "4fe8b7a7a6c74bcef0dfb5bb4b11f3be",
+    "uses": 1
+  },
+  "shem": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "cab38703ebfb4bcd908c4839c2d1c9c1",
+    "uses": 2
+  },
+  "shiba": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "ee7ea61dd7d20227c0ba8f940dcb2ab5",
+    "uses": 1
+  },
+  "shiv": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "b444de747f2cdd7ae735d80a22a25c53",
+    "uses": 1
+  },
+  "shoe": {
+    "avg_strikes": 4.333333333333333,
+    "failed": 1,
+    "passed": 2,
+    "salt": "62f4f6458803918eaee58adf8a29e0be",
+    "uses": 3
+  },
+  "showa": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "66495520223f77b342a9c19d8b036182",
+    "uses": 2
+  },
+  "shum": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "fd4daf3478973d3e80908e1fef24e3e9",
+    "uses": 2
+  },
+  "silla": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 4,
+    "salt": "6003756151b2ee86152fb659d2d74328",
+    "uses": 4
+  },
+  "simi": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "53941c6cfdca0c8dfe09ebeec671977d",
+    "uses": 2
+  },
+  "siro": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "2592631c9ef869fe76e7af6bf6e5b9e3",
+    "uses": 2
+  },
+  "sitting": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "77f1815f73d89dbe572839e0f8dacf2d",
+    "uses": 2
+  },
+  "sizes": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "11f2d88f43fabee180b0875657e51533",
+    "uses": 2
+  },
+  "skids": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "6663ba6aeeaeeaf14117745303e4132b",
+    "uses": 1
+  },
+  "skim": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "becec7ec67a5bbde8a338c28493433e7",
+    "uses": 2
+  },
+  "slack": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "66891edb823697da729c9bd317317403",
+    "uses": 1
+  },
+  "slates": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "02da855bc3bffd161953e9adba97ddb3",
+    "uses": 1
+  },
+  "slats": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "abf9d41432fe945ab0c7e78c381b73ed",
+    "uses": 3
+  },
+  "slaw": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "7d34452eba428738236f95e4f06312cf",
+    "uses": 2
+  },
+  "slim": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "2e0881bc3578e9224171aeed72cc044d",
+    "uses": 1
+  },
+  "smiling": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 1,
+    "salt": "328c3977292853ca9a3786843855e69d",
+    "uses": 2
+  },
+  "smuggle": {
+    "avg_strikes": 2.6666666666666665,
+    "failed": 2,
+    "passed": 1,
+    "salt": "27c45d17979525684ed63bbd67e8f22a",
+    "uses": 3
+  },
+  "snaked": {
+    "avg_strikes": 4.333333333333333,
+    "failed": 1,
+    "passed": 2,
+    "salt": "5ba7863eb40c4535dc4a4fa62d8a2b55",
+    "uses": 3
+  },
+  "soars": {
+    "avg_strikes": 3.5,
+    "failed": 1,
+    "passed": 1,
+    "salt": "4f6fa99a71801a5c994d4343cf713df5",
+    "uses": 2
+  },
+  "solano": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "solo\n": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "ca5b7080bdff05eb0cf77e841122a14c",
+    "uses": 2
+  },
+  "soon": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "ac03ed1f3bd6ded7d94a752db726c125",
+    "uses": 1
+  },
+  "sort": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 1,
+    "salt": "2d303bfa0c75277e5574909a3226b949",
+    "uses": 2
+  },
+  "sound": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "753346e61749d3155af68b5efd896d0e",
+    "uses": 2
+  },
+  "spats": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "ca296d603f1aa08128d43f8a1163cca8",
+    "uses": 3
+  },
+  "specks": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "3e85a917f11baf045d13cd0cb475140a",
+    "uses": 2
+  },
+  "spiny": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "2964d6cff3cc9df4287d5d03c6737355",
+    "uses": 1
+  },
+  "sprat\n": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "45f5e625390545a5f50241cc74b815e7",
+    "uses": 2
+  },
+  "spry": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 4,
+    "salt": "1088c45495eaad90c1a74ad9f4a4e0fd",
+    "uses": 4
+  },
+  "stent": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "stil": {
+    "avg_strikes": 4.5,
+    "failed": 1,
+    "passed": 1,
+    "salt": "d4f761f42cdc0376a932645f29ccbfee",
+    "uses": 2
+  },
+  "stills": {
+    "avg_strikes": 4.8,
+    "failed": 1,
+    "passed": 4,
+    "salt": "bd08d612d640ba4745be83c2ec1ab2be",
+    "uses": 5
+  },
+  "stomp": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "b20c6e4badf8a8f9a6c3a9353559111b",
+    "uses": 2
+  },
+  "stunt": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 1,
+    "salt": "50ab95f6b718a4c181d14d329b3961f9",
+    "uses": 2
+  },
+  "sulking": {
+    "avg_strikes": 3.5,
+    "failed": 2,
+    "passed": 2,
+    "salt": "5d07d02b25778cea13a8623b937fd74b",
+    "uses": 4
+  },
+  "suze": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "ec5ddeb6b26b59a61b210f6df3821d0b",
+    "uses": 1
+  },
+  "suzi": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "c4adecae5a034b420ea6b8a885a77a7d",
+    "uses": 3
+  },
+  "swagger": {
+    "avg_strikes": 4.666666666666667,
+    "failed": 1,
+    "passed": 2,
+    "salt": "94a27e3d4a0694e3e248c356d5ef1357",
+    "uses": 3
+  },
+  "table": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "89a337111cc09b4666c07e94f99b4eda",
+    "uses": 3
+  },
+  "tacked": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "44d1ff1368eda37d6861c27f37922427",
+    "uses": 3
+  },
+  "takao": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "191238f5c5448424600fc1109c5bc8c9",
+    "uses": 2
+  },
+  "tamil": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "57416825f8eed91c003274134d6b8909",
+    "uses": 2
+  },
+  "tanis": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "77a6b16e12de779a551a940560a4a640",
+    "uses": 1
+  },
+  "taped": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "34f4993c27183388d6e08cd7f2a57cdf",
+    "uses": 3
+  },
+  "tara": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "5465646d6dafd4da4f6980f02da0987b",
+    "uses": 3
+  },
+  "tarn": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "a4706a4fcf0bd34e27993e06fd96abb6",
+    "uses": 1
+  },
+  "tart": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "e326ed9c0fe6ac603b3607cc01326b82",
+    "uses": 2
+  },
+  "taxed": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 4,
+    "salt": "cac1026a98b9dc4e90b790cc8922062d",
+    "uses": 4
+  },
+  "teeger": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 4,
+    "salt": "e24d5922b0196316ceb4b9cf35af9f40",
+    "uses": 4
+  },
+  "then": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "78dac564422d9206eac2f71230225254",
+    "uses": 2
+  },
+  "there": {
+    "avg_strikes": 3.5,
+    "failed": 1,
+    "passed": 1,
+    "salt": "05a1f710ba22ca1beb5acac230246521",
+    "uses": 2
+  },
+  "thorny": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "e03ea5ba95d3a3eed0fd87414c893d28",
+    "uses": 3
+  },
+  "tibor": {
+    "avg_strikes": 4.2,
+    "failed": 3,
+    "passed": 2,
+    "salt": "6c350225456a350b15e0969ba1207778",
+    "uses": 5
+  },
+  "tics": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 5,
+    "salt": "d962ba1ab20129ac89cb157be98126de",
+    "uses": 5
+  },
+  "tiller": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "61bbd248c4ca9f26ed44b12a32f91a65",
+    "uses": 2
+  },
+  "tins": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 3,
+    "salt": "889148c236ad20f39466f760cbf3087f",
+    "uses": 4
+  },
+  "toes": {
+    "avg_strikes": 3.5,
+    "failed": 1,
+    "passed": 1,
+    "salt": "96603801b37cb2aedfa80d2757f0782c",
+    "uses": 2
+  },
+  "toff": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "32c65161f195b62d2ef17859e3aeb12c",
+    "uses": 3
+  },
+  "tolly": {
+    "avg_strikes": 4.333333333333333,
+    "failed": 1,
+    "passed": 2,
+    "salt": "30eaa98bfe6252e8c15416151a93d353",
+    "uses": 3
+  },
+  "took": {
+    "avg_strikes": 4.666666666666667,
+    "failed": 1,
+    "passed": 2,
+    "salt": "c5431e0fa1edb4f8d4988a69492f9851",
+    "uses": 3
+  },
+  "toxic": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "8e345faa3ffd63cc3fdb64a0d961346e",
+    "uses": 3
+  },
+  "toyo": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 5,
+    "salt": "8603d57ee910319c9be7073cc17adcb5",
+    "uses": 5
+  },
+  "trace": {
+    "avg_strikes": 3.5,
+    "failed": 1,
+    "passed": 1,
+    "salt": "7512ed3aed8acc63281a012338dab6da",
+    "uses": 2
+  },
+  "tray": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "6f3e8989a7d3baf44fbb610e6a5105eb",
+    "uses": 1
+  },
+  "trills": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "157a4dd691308b62bc8df4b2cb2820d5",
+    "uses": 1
+  },
+  "truck": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 1,
+    "salt": "5dc13141b59b432bcbf271c024dc8a32",
+    "uses": 2
+  },
+  "tudo": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 2,
+    "salt": "795992d869daca27f088700e0e9ef29a",
+    "uses": 3
+  },
+  "tunis": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "e81a26c967e68f3ecbfca757e8efc7c7",
+    "uses": 1
+  },
+  "tushy": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "b5780f43b724ecaa700253fe0c825955",
+    "uses": 3
+  },
+  "tusk": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "twat": {
+    "avg_strikes": 3.8,
+    "failed": 2,
+    "passed": 3,
+    "salt": "c220676af64e9dce200b78d3127eb6d8",
+    "uses": 5
+  },
+  "twins": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 4,
+    "salt": "d3a8e80088ac865e881e45b5a47db83c",
+    "uses": 4
+  },
+  "tying": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "e01b65f4bd2bf1bb3d7e71040538ba03",
+    "uses": 1
+  },
+  "uhhhh": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 4,
+    "salt": "2e74cc5ece35a50b3db5d28a63704ce9",
+    "uses": 4
+  },
+  "unit": {
+    "avg_strikes": 4.5,
+    "failed": 2,
+    "passed": 2,
+    "salt": "c260f5082995d16df3a8ef8e59262871",
+    "uses": 4
+  },
+  "vala": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "6434f91c5cd4945c42280a603020f6df",
+    "uses": 1
+  },
+  "valet": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "e44ca47cfa2c72859be3fed69bbeb652",
+    "uses": 3
+  },
+  "valves": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "veal": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "67fc97071e29182d2294a4ea539aee19",
+    "uses": 1
+  },
+  "veda": {
+    "avg_strikes": 4.75,
+    "failed": 1,
+    "passed": 3,
+    "salt": "ac960147c2277c47cc1a55e6210c5ad0",
+    "uses": 4
+  },
+  "vics": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "4e04b2ecc2840fd2b158bc90066c69bd",
+    "uses": 1
+  },
+  "vive": {
+    "avg_strikes": 3.6666666666666665,
+    "failed": 1,
+    "passed": 2,
+    "salt": "d92b50abf09c76ad0d5d3232e5229b25",
+    "uses": 3
+  },
+  "vivre\n": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "695fa8fcaf15e997c4ec0b7807363b7f",
+    "uses": 2
+  },
+  "wabash": {
+    "avg_strikes": 3.3333333333333335,
+    "failed": 2,
+    "passed": 1,
+    "salt": "255b36643ce18562cd6904f50823eebd",
+    "uses": 3
+  },
+  "wads": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "19b7fdca59afed9923f8989c5bac4e2f",
+    "uses": 1
+  },
+  "wahey": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "51d2c171a6123f5444e8b0cceacaf370",
+    "uses": 2
+  },
+  "walrus": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "e5643e2032a65cdc8901f4757c8c1ee9",
+    "uses": 1
+  },
+  "walton": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 2,
+    "salt": "a37339301751d48a6b88ddab02f06ae5",
+    "uses": 3
+  },
+  "warren": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "972161bc020d4a3f62ae917e55708921",
+    "uses": 1
+  },
+  "watari": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "e0ac02e231054e3e2fbe7cdfb35f1011",
+    "uses": 1
+  },
+  "webs": {
+    "avg_strikes": 4.666666666666667,
+    "failed": 1,
+    "passed": 2,
+    "salt": "3102b2dabe7d3c4446c4e727b4753c95",
+    "uses": 3
+  },
+  "whacked": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "d7e6b6c30a18b533f0db971f009e974c",
+    "uses": 2
+  },
+  "whale": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "73ded4456ac8d03a9d92a9cc6edec1de",
+    "uses": 1
+  },
+  "whammy": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "5c5500cedc7b027c057f0a1914de64ea",
+    "uses": 1
+  },
+  "wher": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 5,
+    "salt": "5f9d25ff337a807baed6ca1970ef3114",
+    "uses": 5
+  },
+  "wilf": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "1413af0ff61fcf71e3a7b4f7f8a74ce2",
+    "uses": 2
+  },
+  "wilmer": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "214cdbbcdf4d07123d494ffd8976a6af",
+    "uses": 1
+  },
+  "wily": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 4,
+    "salt": "cb7d0b1907892e577b547de95c007697",
+    "uses": 4
+  },
+  "wind": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "a104d4bb19af42bf7a0769ebcc151798",
+    "uses": 2
+  },
+  "winery": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "wiser": {
+    "avg_strikes": 4.0,
+    "failed": 2,
+    "passed": 1,
+    "salt": "848d3debb1606097372246bf558ad958",
+    "uses": 3
+  },
+  "wish": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "2f3e4f44b7b623ab02fca8d448f78e7d",
+    "uses": 1
+  },
+  "wombat": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "6ea71ff736afcec4e3f8193025580b39",
+    "uses": 1
+  },
+  "woodley": {
+    "avg_strikes": 3.5,
+    "failed": 1,
+    "passed": 1,
+    "salt": "ab7643170c81ebdda0ad63dac3a4224d",
+    "uses": 2
+  },
+  "woodman": {
+    "avg_strikes": 3.0,
+    "failed": 1,
+    "passed": 0,
+    "salt": null,
+    "uses": 1
+  },
+  "woozy": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 1,
+    "salt": "14ab6a80b957946bdba583cc8c69d72f",
+    "uses": 2
+  },
+  "wormy": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 3,
+    "salt": "4ece888b546a035a4552674849c68f96",
+    "uses": 3
+  },
+  "woven": {
+    "avg_strikes": 4.75,
+    "failed": 1,
+    "passed": 3,
+    "salt": "32154ccb1aa6670d8d72a1a08b6a8844",
+    "uses": 4
+  },
+  "wraps": {
+    "avg_strikes": 4.5,
+    "failed": 1,
+    "passed": 1,
+    "salt": "01ae27a8dd27ba6142c8affae073f03c",
+    "uses": 2
+  },
+  "yeap": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 6,
+    "salt": "97444d0b7c0601b93f07050cd368db4b",
+    "uses": 6
+  },
+  "yell": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "9ac6d4ca1d4210e00c6c3dc305911ea1",
+    "uses": 1
+  },
+  "yosef": {
+    "avg_strikes": 4.0,
+    "failed": 1,
+    "passed": 2,
+    "salt": "33d2efe7ec31c0b6be5c59124f5af544",
+    "uses": 3
+  },
+  "yuko": {
+    "avg_strikes": 4.25,
+    "failed": 1,
+    "passed": 3,
+    "salt": "f7a074749b640f5380d4d464d463f7e4",
+    "uses": 4
+  },
+  "yumi": {
+    "avg_strikes": 4.0,
+    "failed": 2,
+    "passed": 0,
+    "salt": null,
+    "uses": 2
+  },
+  "zings": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "a835ae12e5c5af20056d1904aa3b69ad",
+    "uses": 1
+  },
+  "zippers": {
+    "avg_strikes": 4.666666666666667,
+    "failed": 2,
+    "passed": 4,
+    "salt": "5ab139d03afd46f65cc931ab404003f9",
+    "uses": 6
+  },
+  "zooms": {
+    "avg_strikes": 4.75,
+    "failed": 1,
+    "passed": 3,
+    "salt": "e7ec17afd607ec0af0454e5039d82e76",
+    "uses": 4
+  },
+  "zoya": {
+    "avg_strikes": 4.5,
+    "failed": 1,
+    "passed": 1,
+    "salt": "704b196a0c56f43e034648c0bd4fbe27",
+    "uses": 2
+  },
+  "zucker": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 2,
+    "salt": "24b5f3a4210fb4d0f215de091270a97a",
+    "uses": 2
+  },
+  "zuko": {
+    "avg_strikes": 5.0,
+    "failed": 0,
+    "passed": 1,
+    "salt": "3bde1ba3541b5f4052a86d1e416eb79f",
+    "uses": 1
+  }
+}
